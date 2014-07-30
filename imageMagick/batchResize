@@ -1,0 +1,3 @@
+::Warning: Make a back-up in-case undesired output.
+
+FOR /F %f IN ('dir c:\Users\%username%\Desktop\RumblingSpellOrchestra\ /s/b') DO convert %f -resize 208x300! %f
