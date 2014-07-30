@@ -1,4 +1,2 @@
-cmd
-===
-
-Windows Command Line
+Compilation of command lines.
+Separated by dependency folders.
